@@ -31,7 +31,7 @@ if(isset($_SESSION["username"])){
     }
 }
 else{
-    echo "Loggati";
+    echo "Login";
 }
 */
 
